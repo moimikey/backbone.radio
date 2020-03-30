@@ -59,7 +59,7 @@
     "eslint": "3.2.2",
     "glob": "6.0.3",
     "gulp": "3.9.0",
-    "gulp-eslint": "3.0.1",
+    "gulp-eslint": "6.0.0",
     "gulp-file": "0.2.0",
     "gulp-filter": "3.0.0",
     "gulp-header": "1.7.1",
