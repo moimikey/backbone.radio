@@ -76,7 +76,7 @@
     "isparta": "4.0.0",
     "jquery": "^3.2.1",
     "json-loader": "0.5.3",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.4",
     "mocha": "2.3.4",
     "rollup": "0.36.3",
     "rollup-plugin-babel": "2.6.1",
